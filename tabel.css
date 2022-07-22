@@ -1,0 +1,63 @@
+body{
+    background-image: url(https://th.bing.com/th/id/OIP.VrUCBQg25EkO1wRGOtwXAwHaE7?w=260&h=185&c=7&r=0&o=5&pid=1.7);
+    background-size: cover;
+    font-family: sans-serif;
+}
+.logo{
+    float:left ;
+    padding-left: 10px;
+    padding:5px 5px;
+}
+h3{
+    padding-top: 8px;
+    font-size: 25px;
+    color:white;
+}
+h4{
+    padding-top:-8px;
+    color: white;
+    padding-bottom: 0px;
+}
+header ul{
+     float:right;
+}
+header ul li{
+    display: inline-block;
+}
+header ul li a{
+    margin-top: -20px;
+   padding: 0 20px;
+   display: inline-block; 
+   color:blue;
+}
+header ul li a:hover{
+    background-color: aqua;
+    color:white;
+}
+.active{
+    background-color: aqua;
+    color:black;
+}
+h2{
+    text-align: center;
+    font-family:inherit;
+    font-size: 30px;
+    padding: 0;
+    color:chartreuse;
+}
+table {
+    background-color: black;
+    border: 10px;
+    margin-left: 150px;
+}
+th{
+    color:darkblue;
+    font-size: 30px;
+    padding: 20px 90px;
+    text-align: center;
+}
+tr{
+    text-align: center;
+    background-color:wheat;
+    font-size: 28px;
+}

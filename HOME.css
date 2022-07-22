@@ -1,0 +1,65 @@
+body{
+    font-family: sans-serif;
+    background-image: url(https://th.bing.com/th/id/OIP.VrUCBQg25EkO1wRGOtwXAwHaE7?w=260&h=185&c=7&r=0&o=5&pid=1.7);
+    background-size: cover;
+
+}
+.logo{
+    float:left ;
+    padding-left: 10px;
+    padding:5px 5px;
+}
+h2{
+    padding-top: 8px;
+    font-size: 25px;
+    color:white;
+}
+h4{
+    padding-top:-5px;
+    color: white;
+    padding-bottom: 0px;
+}
+header ul{
+     float:right;
+}
+header ul li{
+    display: inline-block;
+}
+header ul li a{
+    float: left;
+    margin-top: -20px;
+   padding: 0 20px;
+   display: inline-block; 
+   color:blue;
+}
+header ul li a:hover{
+    background-color: aqua;
+    color:white;
+}
+.active{
+    background-color: aqua;
+    color:black;
+}
+h3{
+    color:black;
+    z-index: 1;
+    padding: 55px 25px;
+    text-align: center;
+    padding: 5px 5px;
+    font-size: 40px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+h5{
+    padding-top: 150px;
+    font-size: 20px;
+    font-family:cursive;
+    color:white; 
+    text-align: center;
+}
+p{
+    text-align: center;
+    margin-top: 10px;
+    padding: 20px 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
